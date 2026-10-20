@@ -2783,13 +2783,12 @@ deep-eql@^3.0.1:
   dependencies:
     type-detect "^4.0.0"
 
-deep-equal-in-any-order@1.0.28:
-  version "1.0.28"
-  resolved "https://registry.yarnpkg.com/deep-equal-in-any-order/-/deep-equal-in-any-order-1.0.28.tgz#2b002827e03b9e6b048692baf7faa0a07d3dd1d8"
-  integrity sha512-qq3jffpGmAG9kGpZGKusjRwoGxmFgIqNW076HQmV9rNdrFsgTcpuCyp6dBhzdVCWgQDkgRmvZLYAilV4u2BsfQ==
+deep-equal-in-any-order@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/deep-equal-in-any-order/-/deep-equal-in-any-order-2.2.0.tgz#5dd191574852dfb66a7f883e6aa506a9a6c704bf"
+  integrity sha512-lUYf3Oz/HrPcNmKe+S+QSdY5/hzKleftcFBWLwbHNZ5007RUKgN0asWlAHuQGvT9djYd9PYQFiu0TyNS+h3j/g==
   dependencies:
-    lodash.mapvalues "^4.6.0"
-    sort-any "^1.1.21"
+    sort-any "^4.0.0"
 
 deep-is@^0.1.3:
   version "0.1.3"
@@ -4982,11 +4981,6 @@ lodash.map@^4.5.1:
   resolved "https://registry.yarnpkg.com/lodash.map/-/lodash.map-4.6.0.tgz#771ec7839e3473d9c4cde28b19394c3562f4f6d3"
   integrity sha1-dx7Hg540c9nEzeKLGTlMNWL09tM=
 
-lodash.mapvalues@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.mapvalues/-/lodash.mapvalues-4.6.0.tgz#1bafa5005de9dd6f4f26668c30ca37230cc9689c"
-  integrity sha1-G6+lAF3p3W9PJmaMMMo3IwzJaJw=
-
 lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
@@ -7114,12 +7108,10 @@ socks@^2.3.3:
     ip "^1.1.5"
     smart-buffer "^4.1.0"
 
-sort-any@^1.1.21:
-  version "1.1.23"
-  resolved "https://registry.yarnpkg.com/sort-any/-/sort-any-1.1.23.tgz#d16c0e6d69de03a1ef6a9d4064d14ee1c42ac210"
-  integrity sha512-aY92w1RkjIyJd1l+O4btCwfAIfZm2r+zA6+cfKbKUO5D5MEZlqY27B7QyHHIsEShBsvx+Ur1Oq3v/gfR6wxD/w==
-  dependencies:
-    lodash "^4.17.15"
+sort-any@^4.0.0:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/sort-any/-/sort-any-4.0.7.tgz#8e348cfe00af4708b63cea10a34c57170438d265"
+  integrity sha512-UuZVEXClHW+bVa6ZBQ4biTWmLXMP7y6/jv5arfA0rKk7ZExy+5Zm19uekIqqDx6ZuvUMu7z5Ba9FfBi6FlGXPQ==
 
 sort-keys@^2.0.0:
   version "2.0.0"
